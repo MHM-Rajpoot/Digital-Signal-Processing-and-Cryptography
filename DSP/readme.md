@@ -1,5 +1,4 @@
 # Signal Processing Course Implementation in C++
-=============================================
 
 ## Course Overview
 ---------------
@@ -81,5 +80,6 @@ Contributions to this implementation are welcome. If you have any suggestions or
 
 ## License
 -------
+
 
 This implementation is licensed under the MIT License. See the LICENSE file for more information.
