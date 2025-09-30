@@ -1,12 +1,11 @@
 # Signal Processing Course Implementation in C++
-=============================================
 
 ## Course Overview
 ---------------
 
 This C++ implementation is based on the Signal Processing course taught by Principal Lecturer Dr. Markus Kuhn, taken by Part II students. The course covers fundamental signal-processing principles, digital communications examples, and practical experience with MATLAB-based programming assignments.
 
-![Course Webpage](https://www.cl.cam.ac.uk/teaching/2223/DSP/)
+[Course Webpage](https://www.cl.cam.ac.uk/teaching/2223/DSP/)
 
 ## Course Details
 ----------------
@@ -85,3 +84,4 @@ Contributions to this implementation are welcome. If you have any suggestions or
 -------
 
 This implementation is licensed under the MIT License. See the LICENSE file for more information.
+
