@@ -22,7 +22,7 @@ This C++ implementation is based on the Modern Cryptography course. It introduce
 
 For full course details, lectures, and implementation instructions, see the course-specific documentation:
 
-[Modern Cryptography Full Documentation](./End/readme.md)
+[Modern Cryptography Full Documentation](./EnD/readme.md)
 
 ---
 
@@ -31,3 +31,4 @@ Contributions to either course implementation are welcome. Submit pull requests 
 
 ## License
 This repository is licensed under the MIT License. See the LICENSE file for details.
+
